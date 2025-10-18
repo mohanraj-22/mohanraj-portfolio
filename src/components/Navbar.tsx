@@ -47,7 +47,7 @@ const Navbar = () => {
             }}
             className="text-xl font-bold font-heading gradient-text"
           >
-            Mohanraj.G
+            Mohanraj Gunasekaran
           </a>
 
           {/* Desktop Navigation */}
