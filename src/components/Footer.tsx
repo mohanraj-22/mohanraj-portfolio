@@ -8,10 +8,10 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="text-center md:text-left">
-            <p className="text-foreground/70 text-sm">
+            {/* <p className="text-foreground/70 text-sm">
               © {currentYear} Mohanraj G. Built with{" "}
               <Heart className="inline h-4 w-4 text-accent" /> using React & Tailwind CSS
-            </p>
+            </p> */}
           </div>
 
           <div className="flex gap-4">
