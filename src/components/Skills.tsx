@@ -4,17 +4,17 @@ const Skills = () => {
   const skillCategories = [
     {
       title: "Programming Languages",
-      skills: ["Core Java", "JavaScript", "SQL", "Python"],
+      skills: ["Java", "JavaScript", "SQL", "Python"],
       gradient: "from-primary to-accent"
     },
     {
       title: "Frameworks & Tools",
-      skills: ["Spring", "Hibernate", "Servlets", "JSP", "JDBC", "Git", "Eclipse", "IntelliJ IDEA"],
+      skills: ["Spring", "Hibernate", "Servlets", "JDBC", "Git", "Eclipse"],
       gradient: "from-secondary to-primary"
     },
     {
       title: "Technologies",
-      skills: ["REST APIs", "OOP", "Data Structures", "MySQL", "Debugging", "MVC Architecture"],
+      skills: ["REST APIs", "OOP", "Data Structures", "MySQL", "Debugging"],
       gradient: "from-accent to-secondary"
     }
   ];
